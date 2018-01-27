@@ -5,13 +5,13 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  return $('img:last')
+  return $('img:last');
 }
 
 function ninjaBabySelector(){
-  return $('#baby-ninja')
+  return $('#baby-ninja');
 }
 
 function divSelector(){
-  return $('#pic-listfirst')
+  return $('#pic-listfirst');
 }
