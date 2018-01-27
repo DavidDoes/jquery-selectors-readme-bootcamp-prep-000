@@ -13,5 +13,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  return $('#pic-list:first')
+  return $('ul #pic-list:first')
 }
