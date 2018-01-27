@@ -13,5 +13,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  return $('#pic-list:last')
+  return $('#pic-list:first')
 }
